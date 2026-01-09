@@ -19,5 +19,15 @@ To analyze client portfolio and transaction data to support Wealth Management de
 - Calculated portfolio returns to assess performance
 - Highlighted engagement gaps for potential follow-up
 
-## 🎯 Business Impact
+##  Business Impact
 This analysis enables stakeholders to improve client prioritization, monitor portfolio performance, and make informed wealth management decisions.
+##  Assumptions
+- The data used is synthetic and created for learning purposes
+- Portfolio returns are calculated using the current value vs invested amount
+ ##  Recommendations
+- Proactively engage high-value clients with low recent activity
+- Monitor high-risk portfolios with below-average returns
+- Focus advisory efforts on investment types driving stable AUM
+
+- Client engagement is measured through transaction recency
+
